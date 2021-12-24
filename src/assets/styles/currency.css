@@ -1,0 +1,17 @@
+.currency__title {
+  font-size: 30px;
+  line-height: 36px;
+  margin-bottom: 20px;
+}
+
+.currency__item {
+  display: block;
+  max-width: 100px;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.currency__item:hover {
+  color: blue;
+}
